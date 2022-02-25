@@ -1,0 +1,2 @@
+배열
+- Trapping rain water <-- 어려움. 잘 이해안감
